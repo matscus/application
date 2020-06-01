@@ -1,0 +1,10 @@
+Multi_hosts:
+    hosts: []
+    ports: []
+Single_host:
+  - 
+    host: ''
+    ports: [444,333]
+  - 
+    host: 'google.com'
+    ports: [444,333,443]
